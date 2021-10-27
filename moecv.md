@@ -115,9 +115,6 @@ Order
 - Cash handling
 - Greeting the customers and guiding them to their seats
 - Responsible for collecting menu orders
-
-### VIP
-
-### Waiter - Tripoli | 2015-
+ Not Working 
 
 
